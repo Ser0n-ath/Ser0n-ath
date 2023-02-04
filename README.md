@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Svelte, Spring Boot, NASM x86**
 - 📚 Currently reading: **Design Patterns: Elements of Reusable Object-Oriented Software**
 - 👨‍💻 All of my projects are available at [https://github.com/Ser0n-ath?tab=repositories](https://github.com/Ser0n-ath?tab=repositories)
-- 📫 Talk to me on discord @ **Adriatic#6882**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
