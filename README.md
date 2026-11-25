@@ -6,6 +6,7 @@
 
 <h2 align="left"> Work Experience</h2>
 
+- SDE @ IBM - Data Replication [Current]
 - SDE Intern @ IBM - CDC Data Replication Kafka Team
 - SDE Intern @ Nokia - NSP E2E Test Team
 - SWE Intern @ RBC - TI Risk Analytics Team
